@@ -1,0 +1,3 @@
+name: ConnorHollasch-t3
+main: com.tenjava.entries.ConnorHollasch.t3.TenJava
+version: '${project.version}'
